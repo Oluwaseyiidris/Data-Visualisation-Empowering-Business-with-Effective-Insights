@@ -1,5 +1,6 @@
 This project analyzes sales data to identify key trends, top-performing regions, and valuable customer insights. This analysis is designed to support strategic decisions for business expansion, seasonal planning, and customer engagement.
-Aim of this project 
+
+**Aim of this project**
 - Identify regions and countries with the highest demand to guide expansion efforts.
 - Analyze monthly trends to understand seasonality and adjust business strategies.
 - Determine top customers by revenue to focus on retention and targeted marketing.
