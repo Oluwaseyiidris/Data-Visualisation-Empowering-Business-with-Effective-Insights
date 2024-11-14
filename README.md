@@ -30,7 +30,7 @@ to generate the revenue. This shows that the bargaining power of customers is lo
  4. **High Demand by Country**
    - **Visualization**: Map chart showing demand (units Sold) by country.
    - **Key Insights**:
-     - Countries with the darkest shades(Canada, Australia, czech) have the highest demand, indicating areas with the greatest expansion potential.
+     - Countries with larger shapes; **Canada sold 2,763 units, USA sold 2,453 units, Australia sold 84,209 units, and France 112,104 units** have the highest demand, indicating areas with the greatest expansion potential.
      - This map highlights specific regions that could be prioritized for growth based on their high demand, supporting a targeted expansion strategy.
 
  **Conclusion**
