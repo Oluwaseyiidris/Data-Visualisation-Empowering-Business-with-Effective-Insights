@@ -8,7 +8,7 @@ Aim of this project
   **Data Visualizations and Insights**
 
 1. **Top 10 Countries by Revenue and Quantity Sold**
-   - **Visualization**: Bar chart showing the top 10 countries by revenue, with quantity sold overlay.
+   - **Visualization**: Stacked Bar chart showing the top 10 countries by revenue, with quantity sold overlay.
    - **Key Insights**:
      - **Netherlands, IRELAND, and Germany** lead in revenue, indicating strong demand and suggesting potential for expansion.
      - **Spain, Japan, and Belgium** have lower revenues within the top 10, which may represent growth opportunities if demand can be stimulated in these regions.
@@ -16,25 +16,27 @@ Aim of this project
 2. **Monthly Demand Trend**
    - **Visualization**: Line chart showing revenue trends by month.
    - **Key Insights**:
-     - **September to December** shows a steady increase, peaking in December, likely due to holiday-related sales.
+     - **September to November** The increase in revenue starts in the month of September, where the revenue increases by 40% over the
+previous month. This trend continues till the month of November where it reached 1.5 million USD
      - **January** has a significant drop in demand, indicating a potential off-season. Seasonal promotions or targeted campaigns could be considered for this period to maintain engagement.
 
 3. **Top 10 Customers by Revenue**
    - **Visualization**: Bar chart displaying revenue by the top 10 customers.
    - **Key Insights**:
-     - The top customer (ID **18102**) along with **16446** and **12415** contribute significantly to revenue.
+     - The top customer (ID **18102**) along with **16446** and **12415** contribute significantly to revenue. The highest revenue generating customer only purchased 17% more than the 2nd highest which shows that the business is not relying only on a few customers
+to generate the revenue. This shows that the bargaining power of customers is low and the business is in a good position.
      - Focusing on retention strategies, such as loyalty programs or personalized offers, for these high-value customers can increase repeat sales and customer lifetime value.
 
  4. **High Demand by Country**
-   - **Visualization**: Map chart showing demand (Quantity Sold) by country.
+   - **Visualization**: Map chart showing demand (units Sold) by country.
    - **Key Insights**:
-     - Countries with the darkest shades on the map have the highest demand, indicating areas with the greatest expansion potential.
+     - Countries with the darkest shades(Canada, Australia, czech) have the highest demand, indicating areas with the greatest expansion potential.
      - This map highlights specific regions that could be prioritized for growth based on their high demand, supporting a targeted expansion strategy.
 
  **Conclusion**
 
 - Expansion should prioritize countries with high demand, particularly the Netherlands, IRELAND, and Germany.
-- Seasonal trends indicate that marketing efforts should intensify from September to December to capitalize on peak demand, while strategies to stimulate off-season demand in January could also be beneficial.
+- Seasonal trends indicate that marketing efforts should intensify from September to November to capitalize on peak demand, while strategies to stimulate off-season demand in January could also be beneficial.
 - High-value customers present an opportunity for retention-focused strategies, ensuring steady revenue from this core customer base.
 - High-demand regions identified through the map visualization offer targeted areas for expansion, maximizing potential growth opportunities.
 
