@@ -10,7 +10,7 @@ Aim of this project
 1. **Top 10 Countries by Revenue and Quantity Sold**
    - **Visualization**: Bar chart showing the top 10 countries by revenue, with quantity sold overlay.
    - **Key Insights**:
-     - **Netherlands, EIRE, and Germany** lead in revenue, indicating strong demand and suggesting potential for expansion.
+     - **Netherlands, IRELAND, and Germany** lead in revenue, indicating strong demand and suggesting potential for expansion.
      - **Spain, Japan, and Belgium** have lower revenues within the top 10, which may represent growth opportunities if demand can be stimulated in these regions.
 
 2. **Monthly Demand Trend**
@@ -33,7 +33,7 @@ Aim of this project
 
  **Conclusion**
 
-- Expansion should prioritize countries with high demand, particularly the Netherlands, EIRE, and Germany.
+- Expansion should prioritize countries with high demand, particularly the Netherlands, IRELAND, and Germany.
 - Seasonal trends indicate that marketing efforts should intensify from September to December to capitalize on peak demand, while strategies to stimulate off-season demand in January could also be beneficial.
 - High-value customers present an opportunity for retention-focused strategies, ensuring steady revenue from this core customer base.
 - High-demand regions identified through the map visualization offer targeted areas for expansion, maximizing potential growth opportunities.
